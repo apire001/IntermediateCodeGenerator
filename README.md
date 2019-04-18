@@ -1,10 +1,15 @@
 Requirements for compilation:
+
 gcc version 4.1.2 20080704 (Red Hat 4.1.2-55)
+
 flex version 2.5.4
+
 bison (GNU) version 2.3
+
 
 Requirements for execution:
 gcc version 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC)
+
 
 How to run the code:
 make clean
