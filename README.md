@@ -23,7 +23,7 @@ gcc version 4.8.5 20150623 (Red Hat 4.8.5-11) (GCC)
 ### Install Instructions
 
 ```
-$ git clone https://github.com/apire001/rshell.git
+$ git clone https://github.com/apire001/IntermediateCodeGenerator.git
 $ cd Project3
 $ make clean
 $ make
